@@ -1,3 +1,3 @@
 # powershell-junks
 
-- junks one liner scripts
+- powershell junk scripts
